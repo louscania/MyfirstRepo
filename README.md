@@ -1,0 +1,2 @@
+# MyfirstRepo
+IS塾のサンプル
